@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "The Witcher 3: Wild Hunt",
+    "image": "../images/witcher.jpeg",
+    "price": "$49.99"
+  },
+  {
+    "id": 2,
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "image": "../images/zelda.jpeg",
+    "price": "$59.99"
+  },
+  {
+    "id": 3,
+    "title": "Civilization VI",
+    "image": "../images/civilization.jpeg",
+    "price": "$29.99"
+  },
+  {
+    "id": 4,
+    "title": "God of War",
+    "image": "../images/godofwar.jpeg",
+    "price": "$39.99"
+  }
+]

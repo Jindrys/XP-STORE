@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "The Witcher 3 T-shirt",
+    "image": "./images/witchertshirt.jpeg",
+    "categories": ["Apparel"],
+    "consoles": [],
+    "caption": "This is an awesome Witcher 3 t-shirt.",
+    "price": "$24.99"
+  },
+  {
+    "id": 2,
+    "title": "Legend of Zelda Mug",
+    "image": "./images/zeldamug.jpeg",
+    "categories": ["Drinkware"],
+    "consoles": [],
+    "caption": "Enjoy your coffee with Link!",
+    "price": "$14.99"
+  },
+  {
+    "id": 3,
+    "title": "Minecraft Creeper Plush",
+    "image": "./images/minecraftplush.jpeg",
+    "categories": ["Toys"],
+    "consoles": [],
+    "caption": "Soft and cuddly Minecraft Creeper.",
+    "price": "$19.99"
+  },
+  {
+    "id": 4,
+    "title": "Overwatch Poster",
+    "image": "./images/overwatchposter.jpeg",
+    "categories": ["Posters"],
+    "consoles": [],
+    "caption": "Decorate your room with Overwatch heroes.",
+    "price": "$9.99"
+  },
+  {
+    "id": 5,
+    "title": "Fortnite Backpack",
+    "image": "./images/fortnitebackpack.jpeg",
+    "categories": ["Bags"],
+    "consoles": [],
+    "caption": "Carry all your stuff in style.",
+    "price": "$39.99"
+  }
+]

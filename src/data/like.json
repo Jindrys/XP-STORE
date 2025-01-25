@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "The Witcher 3: Wild Hunt",
+    "image": "../images/witcher.jpeg",
+    "categories": ["Action", "RPG"],
+    "consoles": ["PS5", "Xbox", "PC"],
+    "caption": "The Witcher 3: Wild Hunt is a masterpiece of storytelling and gameplay, offering players an immersive experience in a beautifully crafted open-world RPG. Step into the boots of Geralt of Rivia, a seasoned monster hunter, and navigate a dark fantasy world brimming with danger, mystery, and intrigue. Embark on a quest to find your missing daughter while unraveling the secrets of the Wild Hunt. With its dynamic combat system, deep character progression, and meaningful choices that shape the narrative, this game is a must-play for RPG enthusiasts. Experience a richly detailed world filled with diverse locations, complex characters, and thrilling challenges.",
+    "price": "$49.99"
+  },
+  {
+    "id": 2,
+    "title": "Civilization VI",
+    "image": "../images/civilization.jpeg",
+    "categories": ["Strategy"],
+    "consoles": ["PC", "Switch"],
+    "caption": "Civilization VI is a turn-based strategy game where you lead a civilization from its humble beginnings to a thriving global empire. Make critical decisions in diplomacy, warfare, science, and culture to outwit rival leaders and achieve victory. Build cities, manage resources, and expand your influence across a dynamically generated map. Each leader has unique abilities, and your choices will shape the course of history. With endless replayability and deep strategic gameplay, Civilization VI challenges players to think critically, adapt to changing circumstances, and create an empire that stands the test of time.",
+    "price": "$29.99"
+  },
+  {
+    "id": 3,
+    "title": "Nintendo Switch Pro Controller",
+    "image": "./images/nintendocontroler.jpeg",
+    "categories": ["Controllers"],
+    "consoles": ["Switch"],
+    "price": "$69.99"
+  },
+  {
+    "id": 4,
+    "title": "Fortnite Backpack",
+    "image": "./images/fortnitebackpack.jpeg",
+    "categories": ["Bags"],
+    "consoles": [],
+    "caption": "Carry all your stuff in style.",
+    "price": "$39.99"
+  },
+  {
+    "id": 5,
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "image": "../images/zelda.jpeg",
+    "categories": ["Adventure", "RPG"],
+    "consoles": ["Switch"],
+    "caption": "The Legend of Zelda: Breath of the Wild redefines the adventure genre with its breathtaking open-world design. Set in the vast kingdom of Hyrule, players are free to explore at their own pace, uncovering secrets and solving puzzles along the way. As Link, you awaken from a deep slumber to discover a world in peril. Armed with ingenuity and courage, you must battle formidable enemies, discover ancient shrines, and ultimately face the evil Calamity Ganon. With stunning visuals, innovative mechanics, and a sense of true freedom, this game offers an unforgettable journey for fans of exploration and discovery.",
+    "price": "$59.99"
+  }
+]

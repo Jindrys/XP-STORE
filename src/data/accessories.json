@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Xbox Controller",
+    "image": "./images/xboxcontroler.jpeg",
+    "categories": ["Controllers"],
+    "consoles": ["Xbox"],
+    "price": "$59.99"
+  },
+  {
+    "id": 2,
+    "title": "PlayStation VR Headset",
+    "image": "./images/psvr.jpeg",
+    "categories": ["Virtual Reality"],
+    "consoles": ["PlayStation"],
+    "price": "$299.99"
+  },
+  {
+    "id": 3,
+    "title": "Nintendo Switch Pro Controller",
+    "image": "./images/nintendocontroler.jpeg",
+    "categories": ["Controllers"],
+    "consoles": ["Switch"],
+    "price": "$69.99"
+  },
+  {
+    "id": 4,
+    "title": "Gaming Headset",
+    "image": "./images/headset.jpeg",
+    "categories": ["Headsets"],
+    "consoles": ["PlayStation", "Xbox", "PC"],
+    "price": "$79.99"
+  },
+  {
+    "id": 5,
+    "title": "RGB Gaming Mouse",
+    "image": "./images/gamingmouse.jpeg",
+    "categories": ["Peripherals"],
+    "consoles": ["PC"],
+    "price": "$49.99"
+  }
+]
